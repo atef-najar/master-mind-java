@@ -6,9 +6,15 @@
 
 ## Screenshot
 
-![alt text](http://res.cloudinary.com/atf19/image/upload/v1507463780/1_bnjzt2.png) ![alt text](http://res.cloudinary.com/atf19/image/upload/v1507463775/2_l4hvi9.png)
+![alt text](http://res.cloudinary.com/atf19/image/upload/v1507463780/1_bnjzt2.png) 
+
+![alt text](http://res.cloudinary.com/atf19/image/upload/v1507463775/2_l4hvi9.png)
+
 ![alt text](http://res.cloudinary.com/atf19/image/upload/v1507463782/3_tvxsks.png)
-![alt text](http://res.cloudinary.com/atf19/image/upload/v1507463782/4_bw7op8.png) ![alt text](http://res.cloudinary.com/atf19/image/upload/v1507463781/5_rfj2gn.png)
+
+![alt text](http://res.cloudinary.com/atf19/image/upload/v1507463782/4_bw7op8.png) 
+
+![alt text](http://res.cloudinary.com/atf19/image/upload/v1507463781/5_rfj2gn.png)
 
 
 ## Installation
